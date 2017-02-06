@@ -1,28 +1,60 @@
 # Zone 1: North American Numbering Plan Area
-+1, Canada
-+1, United States
-+1 340, United States Virgin Islands
-+1 670, Northern Mariana Islands
-+1 671, Guam
-+1 684, American Samoa
-+1 787 / 939, Puerto Rico
-+1 242, Bahamas
-+1 246, Barbados
-+1 264, Anguilla
-+1 268, Antigua and Barbuda
-+1 284, British Virgin Islands
-+1 345, Cayman Islands
-+1 441, Bermuda
-+1 473, Grenada
-+1 649, Turks and Caicos Islands
-+1 664, Montserrat
-+1 721, Sint Maarten
-+1 758, Saint Lucia
-+1 767, Dominica
-+1 784, Saint Vincent and the Grenadines
-+1 809 / 829 / 849, Dominican Republic
-+1 868, Trinidad and Tobago
-+1 869, Saint Kitts and Nevis
-+1 876, Jamaica
++1, Canada, Canada.png
++1, United States, United_States.png
++1 340, United States Virgin Islands, United_States_Virgin_Islands.png
++1 670, Northern Mariana Islands, Northern_Mariana_Islands.png
++1 671, Guam, Guam.png
++1 684, American Samoa, American_Samoa.png
++1 787 / 939, Puerto Rico, Puerto_Rico.png
++1 242, Bahamas, Bahamas.png
++1 246, Barbados, Barbados.png
++1 264, Anguilla, Anguilla.png
++1 268, Antigua and Barbuda, Antigua_and_Barbuda.png
++1 284, British Virgin Islands, British_Virgin_Islands.png
++1 345, Cayman Islands, Cayman_Islands.png
++1 441, Bermuda, Bermuda.png
++1 473, Grenada, Grenada.png
++1 649, Turks and Caicos Islands, Turks_and_Caicos_Islands.png
++1 664, Montserrat, Montserrat.png
++1 721, Sint Maarten, Sint_Maarten.png
++1 758, Saint Lucia, Saint_Lucia.png
++1 767, Dominica, Dominica.png
++1 784, Saint Vincent and the Grenadines, Saint_Vincent_and_the_Grenadines.png
++1 809 / 829 / 849, Dominican Republic, Dominican_Republic.png
++1 868, Trinidad and Tobago, Trinidad_and_Tobago.png
++1 869, Saint Kitts and Nevis, Saint_Kitts_and_Nevis.png
++1 876, Jamaica, Jamaica.png
 
 # Zone 2: mostly Africa
++20, Egypt, Egypt.png
++211, South Sudan, South_Sudan.png
++212, Morocco, Morocco.png
++213, Algeria, Algeria.png
++216, Tunisia, Tunisia.png
++218, Libya, Libya.png
++220, Gambia, Gambia.png
++221, Senegal, Senegal.png
++222, Mauritania, Mauritania.png
++223, Mali, Mali.png
++224, Guinea, Guinea.png
++225, Ivory Coast, Ivory_Coast.png
++226, Burkina Faso, Burkina_Faso.png
++227, Niger, Niger.png
++228, Togo, Togo.png
++229, Benin, Benin.png
++230, Mauritius, Mauritius.png
++231, Liberia, Liberia.png
++232, Sierra Leone, Sierra_Leone.png
++233, Ghana, Ghana.png
++234, Nigeria, Nigeria.png
++235, Chad, Chad.png
++236, Central African Republic, Central_African_Republic.png
++237, Cameroon, Cameroon.png
++238, Cape Verde, Cape_Verde.png
++239, São Tomé and Príncipe, São_Tomé_and_Príncipe.png
++240, Equatorial Guinea, Equatorial_Guinea.png
++241, Gabon, Gabon.png
++242, Republic of the Congo, Republic_of_the_Congo.png
++243, Democratic Republic of the Congo, Democratic_Republic_of_the_Congo.png
++244, Angola, Angola.png
++245, Guinea-Bissau, Guinea-Bissau.png
