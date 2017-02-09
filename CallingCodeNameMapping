@@ -58,3 +58,218 @@
 +243, Democratic Republic of the Congo, Democratic_Republic_of_the_Congo.png
 +244, Angola, Angola.png
 +245, Guinea-Bissau, Guinea-Bissau.png
++246, British Indian Ocean Territory, British_Indian_Ocean_Territory.png
++247, Ascension Island, Ascension_Island.png
++248, Seychelles, Seychelles.png
++249, Sudan, Sudan.png
++250, Rwanda, Rwanda.png
++251, Ethiopia, Ethiopia.png
++252, Somalia, Somalia.png
++253, Djibouti, Djibouti.png
++254, Kenya, Kenya.png
++255, Tanzania, Tanzania.png
++255 24, Zanzibar, Zanzibar.png
++256, Uganda, Uganda.png
++257, Burundi, Burundi.png
++258, Mozambique, Mozambique.png
++260, Zambia, Zambia.png
++261, Madagascar, Madagascar.png
++262, Réunion, Réunion.png
++262 269 / 639, Mayotte, Mayotte.png
++263, Zimbabwe, Zimbabwe.png
++264, Namibia, Namibia.png
++265, Malawi, Malawi.png
++266, Lesotho, Lesotho.png
++267, Botswana, Botswana.png
++268, Swaziland, Swaziland.png
++269, Comoros, Comoros.png
++27, South Africa, South_Africa.png
++290, Saint Helena, Saint_Helena.png
++291, Eritrea, Eritrea.png
++297, Aruba, Aruba.png
++298, Faroe Islands, Faroe_Islands.png
++299, Greenland, Greenland.png
+
+# Zones 3-4: Europe
++30, Greece, Greece.png
++31, Netherlands, Netherlands.png
++32, Belgium, Belgium.png
++33, France, France.png
++34, Spain, Spain.png
++350, Gibraltar, Gibraltar.png
++351, Portugal, Portugal.png
++352, Luxembourg, Luxembourg.png
++353, Ireland, Ireland.png
++354, Iceland, Iceland.png
++355, Albania, Albania.png
++356, Malta, Malta.png
++357, Cyprus, Cyprus.png
++358, Finland, Finland.png
++358 18, Åland Islands, Åland_Islands.png
++359, Bulgaria, Bulgaria.png
++36, Hungary, Hungary.png
++370, Lithuania, Lithuania.png
++371, Latvia, Latvia.png
++372, Estonia, Estonia.png
++373, Moldova, Moldova.png
++373 2 / 5, Transnistria, Transnistria.png
++374, Armenia, Armenia.png
++374 47 / 97, Nagorno-Karabakh, Nagorno-Karabakh.png
++375, Belarus, Belarus.png
++376, Andorra, Andorra.png
++377, Monaco, Monaco.png
++378, San Marino, San_Marino.png
++379, Vatican City, Vatican_City.png
++380, Ukraine, Ukraine.png
++381, Serbia, Serbia.png
++382, Montenegro, Montenegro.png
++383, Kosovo, Kosovo.png
++385, Croatia, Croatia.png
++386, Slovenia, Slovenia.png
++387, Bosnia and Herzegovina, Bosnia_and_Herzegovina.png
++389, Macedonia, Macedonia.png
++39, Italy, Italy.png
++39 06 698, Vatican City, Vatican_City.png
++40, Romania, Romania.png
++41, Switzerland, Switzerland.png
++420, Czech Republic, Czech_Republic.png
++421, Slovakia, Slovakia.png
++423, Liechtenstein, Liechtenstein.png
++43, Austria, Austria.png
++44, United Kingdom, United_Kingdom.png
++44 1481, Guernsey, Guernsey.png
++44 1534, Jersey, Jersey.png
++44 1624, Isle of Man, Isle of Man.png
++45, Denmark, Denmark.png
++46, Sweden, Sweden.png
++47, Norway, Norway.png
++47 79, Svalbard, Svalbard.png
++47 79, Jan Mayen, Jan_Mayen.png
++48, Poland, Poland.png
++49, Germany, Germany.png
+
+# Zone 5: Central America and South America
++500, Falkland Islands, Falkland_Islands.png
++500 x, South Georgia and the South Sandwich Islands, South_Georgia_and_the_South_Sandwich_Islands.png
++501, Belize, Belize.png
++502, Guatemala, Guatemala.png
++503, El Salvador, El_Salvador.png
++504, Honduras, Honduras.png
++505, Nicaragua, Nicaragua.png
++506, Costa Rica, Costa_Rica.png
++507, Panama, Panama.png
++508, Saint-Pierre and Miquelon, Saint-Pierre_and_Miquelon.png
++509, Haiti, Haiti.png
++51, Peru, Peru.png
++52, Mexico, Mexico.png
++53, Cuba, Cuba.png
++54, Argentina, Argentina.png
++55, Brazil, Brazil.png
++56, Chile, Chile.png
++57, Colombia, Colombia.png
++58, Venezuela, Venezuela.png
++590, Guadeloupe, Guadeloupe.png
++591, Bolivia, Bolivia.png
++592, Guyana, Guyana.png
++593, Ecuador, Ecuador.png
++595, Paraguay, Paraguay.png
++596, Martinique, Martinique.png
++597, Suriname, Suriname.png
++598, Uruguay, Uruguay.png
++599, Netherlands Antilles, Netherlands_Antilles.png
++599 3, Sint Eustatius, Sint_Eustatius.png
++599 4, Saba, Saba.png
++599 5, Sint Maarten, Sint_Maarten.png
++599 7, Bonaire, Bonaire.png
++599 8, Aruba, Aruba.png
++599 9, Curaçao, Curaçao.png
+
+# Zone 6: Southeast Asia and Oceania
++60, Malaysia, Malaysia.png
++61, Australia, Australia.png
++61 8 9162, Cocos Islands, Cocos_Islands.png
++61 8 9164, Christmas Island, Christmas_Island.png
++62, Indonesia, Indonesia.png
++63, Philippines, Philippines.png
++64, New Zealand, New_Zealand.png
++64 xx, Pitcairn Islands, Pitcairn_Islands.png
++65, Singapore, Singapore.png
++66, Thailand, Thailand.png
++670, East Timor, East_Timor.png
++671, Guam, Guam.png
++672, Australian External Territories, Australian_External_Territories.png
++672 1x, Australian Antarctic Territory, Australian_Antarctic_Territory.png
++672 3, Norfolk Island, Norfolk_Island.png
++673, Brunei, Brunei.png
++674, Nauru, Nauru.png
++675, Papua New Guinea, Papua_New_Guinea.png
++676, Tonga, Tonga.png
++677, Solomon Islands, Solomon_Islands.png
++678, Vanuatu, Vanuatu.png
++679, Fiji, Fiji.png
++680, Palau, Palau.png
++681, Wallis and Futuna, Wallis_and_Futuna.png
++682, Cook Islands, Cook_Islands.png
++683, Niue, Niue.png
++684, American Samoa, American_Samoa.png
++685, Samoa, Samoa.png
++686, Kiribati, Kiribati.png
++687, New Caledonia, New_Caledonia.png
++688, Tuvalu, Tuvalu.png
++689, French Polynesia, French_Polynesia.png
++690, Tokelau, Tokelau.png
++691, Federated States of Micronesia, Federated_States_of_Micronesia.png
++692, Marshall Islands, Marshall_Islands.png
+
+# Zone 7: Parts of the former Soviet Union
++7, Russia, Russia.png
++7 6xx / 7xx, Kazakhstan, Kazakhstan.png
++7 840 / 940, Abkhazia, Abkhazia.png
+
+# Zone 8: East Asia and special services
++81, Japan, Japan.png
++82, South Korea, South_Korea.png
++84, Vietnam, Vietnam.png
++850, North Korea, North_Korea.png
++852, 香港特別行政區, 香港特別行政區.png
++853, 澳门, 澳门.png
++855, Cambodia, Cambodia.png
++856, Laos, Laos.png
++86, 中华人民共和国, 中华人民共和国.png
++880, Bangladesh, Bangladesh.png
++886, 臺灣, 臺灣.png
+
+# Zone 9: mostly Asia
++90, Turkey, Turkey.png
++90 392, Northern Cyprus, Northern_Cyprus.png
++91, India, India.png
++92, Pakistan, Pakistan.png
++93, Afghanistan, Afghanistan.png
++94, Sri Lanka, Sri_Lanka.png
++95, Myanmar, Myanmar.png
++960, Maldives, Maldives.png
++961, Lebanon, Lebanon.png
++962, Jordan, Jordan.png
++963, Syria, Syria.png
++964, Iraq, Iraq.png
++965, Kuwait, Kuwait.png
++966, Saudi Arabia, Saudi_Arabia.png
++967, Yemen, Yemen.png
++968, Oman, Oman.png
++970, Palestine, Palestine.png
++971, United Arab Emirates, United_Arab_Emirates.png
++972, Israel, Israel.png
++973, Bahrain, Bahrain.png
++974, Qatar, Qatar.png
++975, Bhutan, Bhutan.png
++976, Mongolia, Mongolia.png
++977, Nepal, Nepal.png
++98, Iran, Iran.png
++992, Tajikistan, Tajikistan.png
++993, Turkmenistan, Turkmenistan.png
++994, Azerbaijan, Azerbaijan.png
++995, Georgia, Georgia.png
++995 34, South Ossetia, South_Ossetia.png
++995 44, Abkhazia, Abkhazia.png
++996, Kyrgyzstan, Kyrgyzstan.png
++998, Uzbekistan, Uzbekistan.png
